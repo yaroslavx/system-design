@@ -1,4 +1,4 @@
-import pike, sys, os, time
+import pika, sys, os, time
 from pymongo import MongoClient
 import gridfs
 from convert import to_mp3
